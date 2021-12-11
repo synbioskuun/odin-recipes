@@ -1,2 +1,2 @@
 # odin-recipes
-My Odin Project repository
+This is my Odin Project repository. Here I will be posting my progress on my Odin Project portfolio.
